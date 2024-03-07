@@ -1,22 +1,22 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-03-04T01:50:14.810Z",
+  "pub_date": "2024-03-07T00:27:05.707Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSUtQRmJKb01qbVhXbEU4ZFc0eS8xc25PMGVjaEd1a0FsZWhNOTRPOFlDK3MwR2gxc3BFVEN0bk40emVhL3BNb0tMRk9VOElQcmlPSjg0L0U0eFlOYldVTWQzZ2dGZ1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NTE2NTUzCWZpbGU6TXkgVGFsa2luZyBEYXRhLmFwcC50YXIuZ3oKV1oxUG1ORW1zek5HTWpESWcwWVVuYmJ6SndQTkFpSndsTEg4eFJpWndnQzgzQklEL0NGbTJubDlKcE9FRWZRYjg1RmlncVRZVjlxSXp5QVMvTjhOQXc9PQo=",
-      "url": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-2/My.Talking.Data_x64.app.tar.gz",
-      "downloadUrl": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-2/My.Talking.Data_1.0.2_x64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSUtQRmJKb01qbVo3akM2cDJLcXdxSlBnWEZlVitOKzhFM1EyVm9TdDQwUEFsMUo4QlpMa1Nmemp3N25OcUF2QlBYLy9EMk1vWkZrWHkwc2FBMXRlOC96bEhHOEVUYnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NzcwOTQ2CWZpbGU6TXkgVGFsa2luZyBEYXRhLmFwcC50YXIuZ3oKV1NUOWtLQkJSRnduVFdxZHIzWkJEanNkbXk1cHlqSFRqNTdhQTc2QTNWOVhxd1hUOWZ6cmtKOURpS2lBS0g4aWxjWFF4R3NGbjdMeW9BNFVDZWtNQXc9PQo=",
+      "url": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-3/My.Talking.Data_x64.app.tar.gz",
+      "downloadUrl": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-3/My.Talking.Data_1.0.3_x64.dmg"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSUtQRmJKb01qbVhXbEU4ZFc0eS8xc25PMGVjaEd1a0FsZWhNOTRPOFlDK3MwR2gxc3BFVEN0bk40emVhL3BNb0tMRk9VOElQcmlPSjg0L0U0eFlOYldVTWQzZ2dGZ1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NTE2NTUzCWZpbGU6TXkgVGFsa2luZyBEYXRhLmFwcC50YXIuZ3oKV1oxUG1ORW1zek5HTWpESWcwWVVuYmJ6SndQTkFpSndsTEg4eFJpWndnQzgzQklEL0NGbTJubDlKcE9FRWZRYjg1RmlncVRZVjlxSXp5QVMvTjhOQXc9PQo=",
-      "url": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-2/My.Talking.Data_x64.app.tar.gz",
-      "downloadUrl": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-2/My.Talking.Data_1.0.2_x64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSUtQRmJKb01qbVo3akM2cDJLcXdxSlBnWEZlVitOKzhFM1EyVm9TdDQwUEFsMUo4QlpMa1Nmemp3N25OcUF2QlBYLy9EMk1vWkZrWHkwc2FBMXRlOC96bEhHOEVUYnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NzcwOTQ2CWZpbGU6TXkgVGFsa2luZyBEYXRhLmFwcC50YXIuZ3oKV1NUOWtLQkJSRnduVFdxZHIzWkJEanNkbXk1cHlqSFRqNTdhQTc2QTNWOVhxd1hUOWZ6cmtKOURpS2lBS0g4aWxjWFF4R3NGbjdMeW9BNFVDZWtNQXc9PQo=",
+      "url": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-3/My.Talking.Data_x64.app.tar.gz",
+      "downloadUrl": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-3/My.Talking.Data_1.0.3_x64.dmg"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSUtQRmJKb01qbWJyd0JGNU9SSXpPSEl5MjNOa1UyalNuc3R4RnlEMzhLUm1oNGo0dkYwV1RVcit3citUd3FFcm5HdVVEdkZSTDRXRXhDbjEzOVpydklNMHZEWG0wWHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NTE3MDEwCWZpbGU6TXkgVGFsa2luZyBEYXRhXzEuMC4yX3g2NF9lbi1VUy5tc2kuemlwCmtlbkFGQTB0cDNMMmlKMVphSnc5UGpjS3piMCtGYm10U0pxdS9KN0h4OFZrZzhuRmR2cW5MM2lnUVU5emthTThOaGtSRUVQNjVjNTMwa0JyaU8wakRnPT0K",
-      "url": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-2/My.Talking.Data_1.0.2_x64_en-US.msi.zip",
-      "downloadUrl": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-2/My.Talking.Data_1.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSUtQRmJKb01qbWN4SnJWY2tGanBhTHNTZzFPRmF4OEFsK00xV2Y2N0RHamtmandPTjl1KzR6cjk5cjdUUmVjL3J5UnExSzB3YUhLOUZDdXM2ME1VbVZ6QlVuNVRqM2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NzcxMjIxCWZpbGU6TXkgVGFsa2luZyBEYXRhXzEuMC4zX3g2NF9lbi1VUy5tc2kuemlwCkVybC96OTE1d0U1M3l1d0FSY016TGpNaWpXQ3YzeEgxUk5ndjVpL01NRjhpSXBERGFLbUsyUnZkcXRaVDlBTkxLLzU0Z2p6bm54UGZZMEJOTFZQQ0FRPT0K",
+      "url": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-3/My.Talking.Data_1.0.3_x64_en-US.msi.zip",
+      "downloadUrl": "https://rzlfwvdvtmxwuwufnkah.supabase.co/storage/v1/object/public/desktop-releases/MTD%20v1-0-3/My.Talking.Data_1.0.3_x64_en-US.msi"
     }
   }
 }
